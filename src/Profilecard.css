@@ -1,0 +1,29 @@
+.profile-card {
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  
+}
+
+.profile-card-header {
+  padding: 20px;
+  gap: 5px;
+
+}
+
+.profile-card-header img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.profile-card-header h1 {
+  font-size: 24px;
+  margin-top: 10;
+  
+}
+.profile-card-header p{
+  font-size: 18px;
+  font-weight: bold;
+}
